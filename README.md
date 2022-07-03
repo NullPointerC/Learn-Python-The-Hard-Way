@@ -1,2 +1,2 @@
 # Learn-Python-The-Hard-Way
-Code reproduction of Learn-Python-The-Hard-Way(Python3)
+Source code of Learn-Python-The-Hard-Way(with Python3.6)
